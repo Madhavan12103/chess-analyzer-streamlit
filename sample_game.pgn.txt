@@ -1,0 +1,20 @@
+[Event "Casual Game"]
+[Site "Lichess"]
+[Date "2023.10.01"]
+[Round "?"]
+[White "WhitePlayer"]
+[Black "BlackPlayer"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7
+6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7
+11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4 c5
+16. d5 c4 17. Nh2 Nc5 18. Qf3 Bg7 19. Be3 Nfd7 20. Ng4 Qh4
+21. Nh6+ Bxh6 22. Bxh6 Qxh6 23. Qg4 Qg7 24. Re3 Nf6 25. Qh4 Bc8
+26. axb5 g5 27. Nh5 Nxh5 28. Qxh5 g4 29. Rg3 Kh8 30. hxg4 Rg8
+31. f3 Bd7 32. bxa6 Rxa6 33. Rxa6 Nxa6 34. Qh4 Qg5 35. Qxg5 Rxg5
+36. Kf2 Rg8 37. Rh3 Nc5 38. Rh6 Nb7 39. Rf6 Kg7 40. g5 Rh8
+41. g3 h6 42. g6 Kxf6 43. f4 fxg6 44. fxe5+ dxe5 45. Bd1 Nc5
+46. Be2 Nxe4+ 47. Ke3 Nd6 48. Bf3 h5 49. Bg2 Rb8 50. Bf3 Rxb2
+51. Be2 Bf5 52. Bxh5 gxh5 53. g4 hxg4 54. a4 Kg5 55. a5 Bd3
+56. a6 Re2# 0-1
